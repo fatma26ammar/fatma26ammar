@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Fatma
 
-🎓 Sodtware Engineering Student ,
+🎓 Sodtware Engineering Student,
+
 💻 Currently exploring:
 
 * Web Development
