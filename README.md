@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Fatma
 
-🎓 Sodtware Engineering Student,
+🎓 Software Engineering Student,
 
 💻 Currently exploring:
 
